@@ -1,0 +1,13 @@
+﻿{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Gerardo Zagal",
+    "classifications": [ "Web", "API", "Estándar Empresa" ],
+    "identity": "template.net.core",
+    "name": "Plantilla Estándar para proyectos UTIC",
+    "shortName": "template-netcore",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "sourceName": "TemplateNetCore"
+}
