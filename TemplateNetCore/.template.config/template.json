@@ -9,5 +9,14 @@
         "language": "C#",
         "type": "project"
     },
-    "sourceName": "TemplateNetCore"
+    "sourceName": "TemplateNetCore",
+"preferNameDirectory": true,
+  "symbols": {
+    "DatabaseProvider": {
+      "type": "parameter",
+      "datatype": "string",
+      "defaultValue": "SqlServer",
+      "description": "Selecciona el proveedor de base de datos (SqlServer, PostgreSQL, etc.)"
+    }
+  }
 }
